@@ -1,0 +1,10 @@
+1. Check and count any null data is present in the data set
+2. replace the null balance by the average 
+3. Check and remove the duplicate row, by preserving the last row.
+4. Find the unique types of job in the data set.
+5. Count the total clients based on their marital status.
+6. Plot a botplot for the balance
+7. Plot a scatter plot for age and balance
+8. Plot a cross tab for job and marital status & education
+9. Drop the column 'loan'
+10. Plot the histogram for age
